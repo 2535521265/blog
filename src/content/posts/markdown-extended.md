@@ -1,9 +1,9 @@
 ---
-title: Markdown Extended Features
+title: Markdown 扩展功能
 published: 2024-05-01
 description: 'Read more about Markdown features in Fuwari'
 image: ''
-tags: [Demo, Example, Markdown, Fuwari]
+tags: [Example]
 category: 'Examples'
 draft: false 
 ---
