@@ -3,7 +3,7 @@ title: 电影推荐
 published: 2024-07-04
 description: 我个人喜欢的一些电影推荐，涵盖了不同的风格和类型。
 image: 'images/龙猫.jpg'
-tags: [电影, 推荐]
+tags: [电影,推荐]
 category: 电影
 draft: false 
 ---
@@ -13,12 +13,21 @@ draft: false
 以下是我个人喜欢的一些电影推荐，涵盖了不同的风格和类型，希望你们会喜欢。
 
 ## 推荐电影列表
+- **千与千寻** (Spirited Away)
+<iframe width="100%" height="468" src="https://www.4kvm.net/movies/qieyuqixun" title="千与千寻" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **星际穿越** (Interstellar)
+<iframe width="100%" height="468" src="https://www.4kvm.net/movies/xjcy" title="星际穿越" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- **阿甘正传** (Forrest Gump)
+<iframe width="100%" height="468" src="https://www.4kvm.net/movies/agzz" title="阿甘正传" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- **三傻大闹宝莱坞** (3 Idiots)
+<iframe width="100%" height="468" src="https://www.4kvm.net/movies/sansddblw" title="三傻大闹宝莱坞" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 - **第九区** (District 9)
 - **宿醉** (The Hangover)
-- **阿甘正传** (Forrest Gump)
-- **三傻大闹宝莱坞** (3 Idiots)
 - **星球大战**系列 (Star Wars Series)
 - **楚门的世界** (The Truman Show)
 - **泰坦尼克号** (Titanic)
