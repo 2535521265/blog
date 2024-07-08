@@ -1,7 +1,7 @@
 ---
 title: 项目-基于pytorch的手写数字识别
 published: 2024-07-02
-description: ''
+description: '采用卷积神经网络模型，对28*28像素手写数字0-9图像的识别'
 image: ''
 tags: [项目]
 category: '项目'

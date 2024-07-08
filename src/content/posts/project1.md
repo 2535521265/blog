@@ -1,8 +1,8 @@
 ---
 title: 项目-仿网易云音乐播放器
 published: 2024-07-02
-description: ''
-image: ''
+description: '使用Qt Quick QML开发的一款云音乐播放器程序。'
+image: 'images/music.png'
 tags: [项目]
 category: '项目'
 draft: false 

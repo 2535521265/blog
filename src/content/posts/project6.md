@@ -1,7 +1,7 @@
 ---
 title: 项目-基于Qt的扫雷,可嵌入开发板
 published: 2024-07-02
-description: ''
+description: '用Qt Creator开发的扫雷游戏，功能比较完整'
 image: ''
 tags: [项目]
 category: '项目'

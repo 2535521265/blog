@@ -3,7 +3,7 @@ title: 游戏推荐
 published: 2024-07-05
 description: '好玩的单机独立小游戏'
 image: 'images/杂交版.png'
-tags: [推荐]
+tags: [推荐,网址]
 category: '游戏'
 draft: false 
 ---

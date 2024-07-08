@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Tenf',
-  subtitle: 'Demo Site', // 网站的副标题
+  subtitle: 'blog', // 网站的副标题
   lang: 'zh_CN', // 语言设置，如 'en'（英语）、'zh_CN'（简体中文）、'zh_TW'（繁体中文）、'ja'（日语）
   themeColor: {
     hue: 250, // 主题颜色的色调，范围从0到360。例如红色：0，蓝绿色：200，青色：250，粉色：345

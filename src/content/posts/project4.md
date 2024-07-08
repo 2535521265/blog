@@ -1,7 +1,7 @@
 ---
 title: 项目-基于HTML的音乐网页
 published: 2024-07-02
-description: ''
+description: '刚学习html时的一个练习项目,一个简单的音乐网站前端'
 image: ''
 tags: [项目]
 category: '项目'

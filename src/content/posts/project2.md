@@ -1,7 +1,7 @@
 ---
 title: 项目-Shell小程序
 published: 2024-07-02
-description: ''
+description: '一个简单的命令行解释器,支持基本的交互式操作和脚本执行'
 image: ''
 tags: [项目]
 category: '项目'
