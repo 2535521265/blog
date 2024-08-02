@@ -20,11 +20,11 @@ export const siteConfig: SiteConfig = {
     position: 'center', // 等同于 object-position，默认为中心
   },
   favicon: [ // 留空该数组以使用默认的favicon
-    // {
-    //   src: '/favicon/icon.png', // favicon的路径，相对于 /public 目录
-    //   theme: 'light', // (可选) 'light' 或 'dark'，只有当你为浅色和深色模式设置了不同的favicon时才设置
-    //   sizes: '32x32', // (可选) favicon的大小，只有当你有不同大小的favicon时才设置
-    // }
+    {
+      src: '/favicon/icon.jpg', // favicon的路径，相对于 /public 目录
+      // theme: 'light', // (可选) 'light' 或 'dark'，只有当你为浅色和深色模式设置了不同的favicon时才设置
+      // sizes: '32x32', // (可选) favicon的大小，只有当你有不同大小的favicon时才设置
+    }
   ]
 }
 

@@ -1,5 +1,5 @@
 ---
-title: 项目-扫雷小游戏
+title: 项目-python-扫雷小游戏
 published: 2024-07-02
 description: 'Python语言和Pygame库开发的扫雷小游戏'
 image: ''
