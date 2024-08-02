@@ -30,7 +30,7 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "tenf-blog.netlify.app/",
+  site: "https://tenf-blog.netlify.app/",
   base: "/",
   trailingSlash: "always",
   integrations: [
