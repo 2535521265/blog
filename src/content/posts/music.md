@@ -1,8 +1,8 @@
 ---
-title: 网易云音乐推荐
+title: 我的网易云音乐
 date: 2024-07-31
 published: 2024-07-31
-description: ''
+description: 我的网易云音乐歌单
 image: ''
 tags: [音乐]
 category: '音乐'

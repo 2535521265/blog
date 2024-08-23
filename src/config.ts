@@ -67,7 +67,7 @@ export const profileConfig: ProfileConfig = {
 }
 
 export const licenseConfig: LicenseConfig = {
-  enable: true, // 是否启用版权信息
+  enable: false, // 是否启用版权信息
   name: 'CC BY-NC-SA 4.0', // 版权协议名称
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/', // 版权协议链接
 }
